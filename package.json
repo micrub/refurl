@@ -26,9 +26,8 @@
     "nsp": "^2.1.0"
   },
   "repository": {
-    "type": "",
-    "url": ""
+    "type": "git",
+    "url": "git@github.com:micrub/refurl.git"
   },
-  "license": "UNLICENSED",
-  "description": "referstr"
+  "description": "bookmark API"
 }
